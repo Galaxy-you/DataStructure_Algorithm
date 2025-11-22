@@ -1,0 +1,35 @@
+1. 数组相关
+✓   一维数组基本操作（初始化、常用技巧）
+✓   二维数组
+✓   ArrayList（可变数组）
+✓   前缀和数组
+✓   差分数组
+
+2. 线性结构
+✓   单链表
+✓   双链表
+✓   栈（Stack）
+✓   单调栈
+✓   队列（Queue）
+✓   双端队列（Deque）
+✓   循环队列
+补充建议：优先队列（PriorityQueue/堆）
+
+3. 树
+✓   二叉树（基本遍历）
+并查集（Union-Find）
+二叉搜索树（BST）
+java封装的AVL树以及红黑树
+TreeSet/TreeMap（Java内置的红黑树封装）
+
+4. 图
+✓    邻接矩阵表示
+✓    邻接表表示
+✓    基本的图存储结构
+
+5. 哈希表与集合
+✓   HashMap
+✓   HashSet
+✓   LinkedHashMap/LinkedHashSet（保持插入顺序）
+
+6、字符串   ✓
